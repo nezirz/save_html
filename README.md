@@ -5,20 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+Sample of inserting Html
+![alt text](https://raw.github.com/nezirz/save_html/master/storage/SaveHtml.png)
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Sample of showing Html content form DB
+![alt text](https://raw.github.com/nezirz/save_html/master/storage/SaveHtml1.png)
