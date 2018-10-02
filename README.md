@@ -6,7 +6,7 @@ application up and running.
 Things you may want to cover:
 
 Sample of inserting Html
-![alt text](https://raw.github.com/nezirz/save_html/master/storage/SaveHtml.png)
+![alt text](https://raw.github.com/nezirz/save_html/master/SaveHtml.png)
 
 Sample of showing Html content form DB
-![alt text](https://raw.github.com/nezirz/save_html/master/storage/SaveHtml1.png)
+![alt text](https://raw.github.com/nezirz/save_html/master/SaveHtml1.png)
